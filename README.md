@@ -14,6 +14,7 @@ Per evitare che due persone traducano le stesse pagine, si deve inserire qua sot
 il proprio nome con scritto cosa verrà tradotto.
 
 	* Matteo Alessio Carrara (io): index.html
+	* Agostino Di Lillo (egli): preface.html
 
 
 ## Per aggiornamenti
