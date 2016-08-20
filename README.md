@@ -10,10 +10,8 @@ Il libro originale si trova qui: http://www.catb.org/%7Eesr/writings/taoup/html/
 
 ## Contribuire
 
-Per evitare che due persone traducano le stesse pagine, si deve inserire qua sotto 
-il proprio nome con scritto cosa verrà tradotto.
-
-	* Matteo Alessio Carrara (io): index.html
+Per evitare che due persone traducano le stesse pagine, prima di tradurre una 
+pagina controllare cosa stanno facendo gli altri nei fork.
 
 
 ## Per aggiornamenti
