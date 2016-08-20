@@ -5,15 +5,16 @@ Questo repository contiene una versione del libro tradotta dalla comunità. L'ob
 coloro che ne avrebbero più bisogno. E poi in italiano si capisce sempre un po' 
 meglio che in inglese.
 
-Questo repo può essere scaricato per leggerlo offline, oppure può essere letto 
+Questo repo può essere scaricato per essere letto offline, oppure può essere letto 
 online a questo indirizzo: https://matteoalessiocarrara.github.io/the-art-of-unix-programming-italian/ .
 Il libro originale si trova qui: http://www.catb.org/%7Eesr/writings/taoup/html/
 
 
-## Contribuire
+## Contributi
 
-Per evitare che due persone traducano le stesse pagine, prima di tradurre una 
-pagina controllare cosa stanno facendo gli altri nei fork.
+Questo traduzione si basa sul contributo degli utenti, quindi pull requests sono 
+ben accette. Per evitare che due persone traducano la stessa pagina, prima di 
+tradurre controllare cosa stanno facendo gli altri nei fork.
 
 
 ## Per aggiornamenti
