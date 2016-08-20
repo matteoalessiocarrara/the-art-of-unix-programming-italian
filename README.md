@@ -1,10 +1,19 @@
-# Attenzione: lavori in corso
+# The art of unix programming
+
+Questo repository contiene una versione del libro tradotta dalla comunità. L'obbiettivo 
+è permettere l'accesso a questa filosofia anche ai meno esperti, ovvero proprio 
+coloro che ne avrebbero più bisogno. E poi in italiano si capisce sempre un po' 
+meglio che in inglese.
+
+Il libro originale si trova qui: http://www.catb.org/%7Eesr/writings/taoup/html/
 
 
 ## Contribuire
 
 Per evitare che due persone traducano le stesse pagine, si deve inserire qua sotto 
-il link al proprio fork con scritto cosa verrà tradotto.
+il proprio nome con scritto cosa verrà tradotto.
+
+	* Matteo Alessio Carrara (io): index.html
 
 
 ## Per aggiornamenti
