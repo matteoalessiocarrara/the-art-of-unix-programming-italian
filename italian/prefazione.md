@@ -1,6 +1,7 @@
 ## Prefazione
 
 > Unix non è tanto un sistema operativo quanto una storia orale.
+
 \~ Neal Stephenson
 
 C’è una gran differenza fra conoscenza ed esperienza. La conoscenza ti
