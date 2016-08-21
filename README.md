@@ -26,5 +26,5 @@ tradurre controllare cosa stanno facendo gli altri nei fork.
 ## Per aggiornamenti
 
 È possibile iscriversi al canale [telegram](https://telegram.me/matteoalessiocarrara) 
-od alla comoda pagina [facebook](https://www.facebook.com/matteoalessiocarrara).
+o alla comoda pagina [facebook](https://www.facebook.com/matteoalessiocarrara).
 
