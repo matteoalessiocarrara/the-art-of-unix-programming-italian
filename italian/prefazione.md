@@ -16,8 +16,8 @@ sanno di conoscere. È quindi meno sui dettagli tecnici e più sulla
 cultura condivisa, rispetto alla maggior parte dei libri su Unix:
 cultura sia esplicita che implicita, tradizioni sia consapevoli che
 inconsapevoli. Non è un libro su “come-fare”, ma sul “perché-fare”. Il
-perché-fare ha molta più importanza pratica, perché troppo software è
-stato mal progettato. Molti di questi soffrono di pesantezza, sono
+perché-fare ha molta più importanza pratica, perché troppi software sono
+stati mal progettati. Molti di questi soffrono di pesantezza, sono
 eccessivamente difficili da mantenere, e troppo difficili da convertire
 per nuove piattaforme o estendere in modi che il programmatore originale
 non aveva previsto. Questi problemi sono sintomo di una cattivo design.
